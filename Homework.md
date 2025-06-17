@@ -28,8 +28,9 @@
 
 Выполните действия и приложите скриншоты запуска команд.
 
-Установите на управляемых хостах любой пакет, которого нет.
-Проверьте статус любого, присутствующего на управляемой машине, сервиса.
-Создайте файл с содержимым «I like Linux» по пути /tmp/netology.txt.
+1.Установите на управляемых хостах любой пакет, которого нет.
+2.Проверьте статус любого, присутствующего на управляемой машине, сервиса.
+3.Создайте файл с содержимым «I like Linux» по пути /tmp/netology.txt.
 ### Решение 4
-![pic4](https://github.com/PeterP-DevOps/Ansible-Part1-7-ansible-hw/blob/main/picture/img1.png)
+![pic4](https://github.com/PeterP-DevOps/Ansible-Part1-7-ansible-hw/blob/main/picture/img6.png)
+![pic5](https://github.com/PeterP-DevOps/Ansible-Part1-7-ansible-hw/blob/main/picture/img7.png)
