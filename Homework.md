@@ -32,3 +32,4 @@
 Проверьте статус любого, присутствующего на управляемой машине, сервиса.
 Создайте файл с содержимым «I like Linux» по пути /tmp/netology.txt.
 ### Решение 4
+![pic4](https://github.com/PeterP-DevOps/Ansible-Part1-7-ansible-hw/blob/main/picture/img1.png)
