@@ -14,3 +14,6 @@
 4. Проверьте доступность хостов с помощью модуля ping.
 
 ### Решение 2
+![pic1](https://github.com/PeterP-DevOps/Ansible-Part1-7-ansible-hw/blob/main/picture/img1.png)
+![pic2](https://github.com/PeterP-DevOps/Ansible-Part1-7-ansible-hw/blob/main/picture/img4.png)
+![pic3](https://github.com/PeterP-DevOps/Ansible-Part1-7-ansible-hw/blob/main/picture/img5.png)
